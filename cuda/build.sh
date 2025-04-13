@@ -2,7 +2,7 @@
 set -e
 
 TAGS=(
-  12.4.1-cudnn-runtime-ubuntu20.04
+  12.4.1-devel-ubuntu20.04
 )
 
 for tag in "${TAGS[@]}"; do
